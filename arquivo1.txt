@@ -1,2 +1,3 @@
 Arquivo criado originalmente na branch main.
 Conteúdo inicial para prática de Git.
+Alteração realizada na branch desenvolvimento (passo 10).
