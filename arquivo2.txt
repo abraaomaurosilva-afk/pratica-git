@@ -1,1 +1,2 @@
 Segundo arquivo criado para a prática de Git.
+Alteração realizada diretamente na branch main remota (passo 12).
