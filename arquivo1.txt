@@ -1,0 +1,2 @@
+Arquivo criado originalmente na branch main.
+Conteúdo inicial para prática de Git.
